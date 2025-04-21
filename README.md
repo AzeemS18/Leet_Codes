@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
+## Array
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/AzeemS18/Leet_Codes/tree/master/2249-count-the-hidden-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/AzeemS18/Leet_Codes/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
