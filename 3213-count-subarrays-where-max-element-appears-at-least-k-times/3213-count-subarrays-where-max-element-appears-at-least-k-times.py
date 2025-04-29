@@ -15,3 +15,25 @@ class Solution(object):
                     count -= 1
                 left += 1
         return result
+
+
+
+class Solution(object):
+    def countSubarrays(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        target = max(nums)
+        final_count = 0
+        x = len(nums)
+        for i in range(x):
+            count = 0
+            for j in range(i, x):  # corrected range to include nums[x - 1]
+                if nums[j] == target:
+                    count += 1
+                if count >= k:
+                    final_count += 1
+        return final_count
+
