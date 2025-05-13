@@ -22,3 +22,23 @@ class Solution(object):
         for v in nums:
             res = (res + v) % mod
         return res
+
+
+
+
+class Solution(object):
+    def lengthAfterTransformations(self, s, t):
+        """
+        :type s: str
+        :type t: int
+        :rtype: int
+        """
+        for _ in range(t):
+            new_s = ""
+            for char in s:
+                if char == 'z':
+                    new_s += "ab"
+                else:
+                    new_s += chr(ord(char) + 1)
+            s = new_s  # update s for the next iteration
+        return len(s)
