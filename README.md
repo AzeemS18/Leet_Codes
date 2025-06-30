@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
+| [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AzeemS18/Leet_Codes/tree/master/1293-three-consecutive-odds) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 ## Math
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AzeemS18/Leet_Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## String Matching
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
