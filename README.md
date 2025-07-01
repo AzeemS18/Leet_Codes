@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3617-find-the-original-typed-string-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
 |  |
