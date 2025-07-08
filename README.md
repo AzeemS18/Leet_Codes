@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/AzeemS18/Leet_Codes/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AzeemS18/Leet_Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AzeemS18/Leet_Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AzeemS18/Leet_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AzeemS18/Leet_Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AzeemS18/Leet_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
