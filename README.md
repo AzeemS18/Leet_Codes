@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AzeemS18/Leet_Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
