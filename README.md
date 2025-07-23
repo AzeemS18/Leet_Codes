@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AzeemS18/Leet_Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AzeemS18/Leet_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AzeemS18/Leet_Codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Prefix Sum
 |  |
 | ------- |
