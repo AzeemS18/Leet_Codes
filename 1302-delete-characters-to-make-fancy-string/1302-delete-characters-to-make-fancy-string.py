@@ -4,14 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        c=0
-        b=s[0]
-        for i in range (1,len(s)):
-            if s[i] == s[i-1]:
-                c+=1
-            else:
-                c=0
-            if c < 2:
-                    b+=s[i]
-        return b
+        r=s[:2]
+        for i in range (2,len(s)):
+            if s[i] == r[-1] and s[i] == r[-2]:
+                continue
+            r+=s[i]
+        return r
         
