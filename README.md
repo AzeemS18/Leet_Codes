@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AzeemS18/Leet_Codes/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AzeemS18/Leet_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AzeemS18/Leet_Codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AzeemS18/Leet_Codes/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AzeemS18/Leet_Codes/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Queue
 |  |
 | ------- |
