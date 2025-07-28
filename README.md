@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
