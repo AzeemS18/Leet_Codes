@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0806-domino-and-tromino-tiling](https://github.com/AzeemS18/Leet_Codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AzeemS18/Leet_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AzeemS18/Leet_Codes/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
