@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3194-find-words-containing-character](https://github.com/AzeemS18/Leet_Codes/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/AzeemS18/Leet_Codes/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3618-find-the-original-typed-string-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AzeemS18/Leet_Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3194-find-words-containing-character](https://github.com/AzeemS18/Leet_Codes/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AzeemS18/Leet_Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AzeemS18/Leet_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
