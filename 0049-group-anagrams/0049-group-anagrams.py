@@ -5,10 +5,12 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        x=defaultdict(list)
+        am={}
         for i in strs:
-            s=tuple(sorted(i))
-            x[s].append(i)
-        return (list(x.values()))
+            key= "".join(sorted(i))
+            if key not in am:
+                am[key] = []
+            am[key].append(i)
+        return list(am.values())
 
         
