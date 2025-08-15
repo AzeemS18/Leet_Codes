@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AzeemS18/Leet_Codes/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
