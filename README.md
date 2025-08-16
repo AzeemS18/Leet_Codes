@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/AzeemS18/Leet_Codes/tree/master/0029-divide-two-integers) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
