@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -224,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AzeemS18/Leet_Codes/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 ## Segment Tree
 |  |
 | ------- |
