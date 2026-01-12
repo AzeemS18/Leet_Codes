@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/AzeemS18/Leet_Codes/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0045-jump-game-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AzeemS18/Leet_Codes/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
