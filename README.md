@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AzeemS18/Leet_Codes/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AzeemS18/Leet_Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AzeemS18/Leet_Codes/tree/master/0036-valid-sudoku) |
+| [0059-spiral-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
