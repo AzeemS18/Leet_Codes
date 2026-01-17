@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AzeemS18/Leet_Codes/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/AzeemS18/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/AzeemS18/Leet_Codes/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AzeemS18/Leet_Codes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AzeemS18/Leet_Codes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0151-reverse-words-in-a-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/AzeemS18/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AzeemS18/Leet_Codes/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
