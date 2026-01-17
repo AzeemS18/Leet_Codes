@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AzeemS18/Leet_Codes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/AzeemS18/Leet_Codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AzeemS18/Leet_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0240-search-a-2d-matrix-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
