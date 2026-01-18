@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/AzeemS18/Leet_Codes/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AzeemS18/Leet_Codes/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
