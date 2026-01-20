@@ -353,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [2924-find-champion-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/2924-find-champion-ii) |
 <!---LeetCode Topics End-->
