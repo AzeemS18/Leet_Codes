@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
+| [0896-monotonic-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1200-minimum-absolute-difference](https://github.com/AzeemS18/Leet_Codes/tree/master/1200-minimum-absolute-difference) |
