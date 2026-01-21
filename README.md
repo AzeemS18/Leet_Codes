@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AzeemS18/Leet_Codes/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AzeemS18/Leet_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AzeemS18/Leet_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
