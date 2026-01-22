@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
+| [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
+| [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [0896-monotonic-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AzeemS18/Leet_Codes/tree/master/0238-product-of-array-except-self) |
+| [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [2249-count-the-hidden-sequences](https://github.com/AzeemS18/Leet_Codes/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3618-find-the-original-typed-string-ii) |
