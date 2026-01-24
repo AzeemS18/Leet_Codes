@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [0896-monotonic-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0896-monotonic-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0643-maximum-average-subarray-i) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AzeemS18/Leet_Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## String Matching
