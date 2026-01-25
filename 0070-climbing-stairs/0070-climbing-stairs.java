@@ -1,16 +1,15 @@
 class Solution {
     public int climbStairs(int n) {
-        int f = 1 , s = 2, t = 3;
-        if(n==0)return 0;
-        if(n==1)return f;
-        if(n==2)return s;
-        int res = 0;
-        for(int i = 3 ; i <= n ; i++){
-            res = f+s;
-            f = s;
-            s = res;
-        }
-        return res;
+        int[] dp = new int[n+1];
+        Arrays.fill(dp,-1);
+        int x = dprecursion(n,dp);
+        return x;
         
+    }
+    static int dprecursion(int n , int[] dp){
+        if(n==0)return 1;
+        if(n<0)return 0;
+        if(dp[n] != -1)return dp[n];
+        return dp[n] = dprecursion(n-1,dp) + dprecursion(n-2,dp);
     }
 }
