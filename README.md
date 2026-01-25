@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AzeemS18/Leet_Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1002-find-common-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/1002-find-common-characters) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AzeemS18/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AzeemS18/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Segment Tree
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AzeemS18/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 ## Counting Sort
 |  |
 | ------- |
