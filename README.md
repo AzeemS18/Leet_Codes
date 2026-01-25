@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [0896-monotonic-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0896-monotonic-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/AzeemS18/Leet_Codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
