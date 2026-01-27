@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AzeemS18/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AzeemS18/Leet_Codes/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
