@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/AzeemS18/Leet_Codes/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AzeemS18/Leet_Codes/tree/master/0238-product-of-array-except-self) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AzeemS18/Leet_Codes/tree/master/0443-string-compression) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
