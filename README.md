@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AzeemS18/Leet_Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0213-house-robber-ii) |
 | [0228-summary-ranges](https://github.com/AzeemS18/Leet_Codes/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/AzeemS18/Leet_Codes/tree/master/0238-product-of-array-except-self) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AzeemS18/Leet_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0198-house-robber](https://github.com/AzeemS18/Leet_Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/AzeemS18/Leet_Codes/tree/master/0377-combination-sum-iv) |
