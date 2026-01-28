@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AzeemS18/Leet_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AzeemS18/Leet_Codes/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2706-buy-two-chocolates](https://github.com/AzeemS18/Leet_Codes/tree/master/2706-buy-two-chocolates) |
 | [3194-find-words-containing-character](https://github.com/AzeemS18/Leet_Codes/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/AzeemS18/Leet_Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AzeemS18/Leet_Codes/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AzeemS18/Leet_Codes/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2706-buy-two-chocolates](https://github.com/AzeemS18/Leet_Codes/tree/master/2706-buy-two-chocolates) |
 ## Math
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/AzeemS18/Leet_Codes/tree/master/1448-maximum-69-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2706-buy-two-chocolates](https://github.com/AzeemS18/Leet_Codes/tree/master/2706-buy-two-chocolates) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AzeemS18/Leet_Codes/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Queue
 |  |
