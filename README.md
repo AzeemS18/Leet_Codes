@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AzeemS18/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -472,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/AzeemS18/Leet_Codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AzeemS18/Leet_Codes/tree/master/0078-subsets) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
