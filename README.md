@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0739-daily-temperatures](https://github.com/AzeemS18/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AzeemS18/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Segment Tree
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AzeemS18/Leet_Codes/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
