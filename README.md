@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/AzeemS18/Leet_Codes/tree/master/0933-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Monotonic Queue
 |  |
@@ -501,8 +502,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/AzeemS18/Leet_Codes/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/AzeemS18/Leet_Codes/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AzeemS18/Leet_Codes/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/AzeemS18/Leet_Codes/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
