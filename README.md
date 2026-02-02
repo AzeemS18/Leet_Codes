@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AzeemS18/Leet_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AzeemS18/Leet_Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AzeemS18/Leet_Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AzeemS18/Leet_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/AzeemS18/Leet_Codes/tree/master/1656-count-good-triplets) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AzeemS18/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AzeemS18/Leet_Codes/tree/master/0901-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AzeemS18/Leet_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Segment Tree
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AzeemS18/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/AzeemS18/Leet_Codes/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AzeemS18/Leet_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Counting Sort
 |  |
 | ------- |
