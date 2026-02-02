@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AzeemS18/Leet_Codes/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/AzeemS18/Leet_Codes/tree/master/0933-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/AzeemS18/Leet_Codes/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0682-baseball-game) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/AzeemS18/Leet_Codes/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/AzeemS18/Leet_Codes/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AzeemS18/Leet_Codes/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
