@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AzeemS18/Leet_Codes/tree/master/0443-string-compression) |
+| [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1002-find-common-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/1002-find-common-characters) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
+| [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AzeemS18/Leet_Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 ## Design
 |  |
 | ------- |
