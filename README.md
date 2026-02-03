@@ -521,13 +521,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
