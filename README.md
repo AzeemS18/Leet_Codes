@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AzeemS18/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3790-fruits-into-baskets-ii) |
