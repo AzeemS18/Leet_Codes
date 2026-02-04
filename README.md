@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AzeemS18/Leet_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AzeemS18/Leet_Codes/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AzeemS18/Leet_Codes/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AzeemS18/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AzeemS18/Leet_Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0300-longest-increasing-subsequence) |
