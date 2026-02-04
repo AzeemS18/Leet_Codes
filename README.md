@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/AzeemS18/Leet_Codes/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/AzeemS18/Leet_Codes/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/AzeemS18/Leet_Codes/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
 | [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
