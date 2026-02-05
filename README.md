@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/AzeemS18/Leet_Codes/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AzeemS18/Leet_Codes/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0189-rotate-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/AzeemS18/Leet_Codes/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
