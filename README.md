@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
+| [0376-wiggle-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AzeemS18/Leet_Codes/tree/master/0377-combination-sum-iv) |
 | [0414-third-maximum-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/AzeemS18/Leet_Codes/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/AzeemS18/Leet_Codes/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AzeemS18/Leet_Codes/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/AzeemS18/Leet_Codes/tree/master/0135-candy) |
+| [0376-wiggle-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
