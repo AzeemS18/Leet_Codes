@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [1002-find-common-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/1002-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/1143-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/AzeemS18/Leet_Codes/tree/master/0806-domino-and-tromino-tiling) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
+| [1143-longest-common-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/1143-longest-common-subsequence) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AzeemS18/Leet_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
