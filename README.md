@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AzeemS18/Leet_Codes/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AzeemS18/Leet_Codes/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/AzeemS18/Leet_Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0205-isomorphic-strings) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AzeemS18/Leet_Codes/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/AzeemS18/Leet_Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0151-reverse-words-in-a-string) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/AzeemS18/Leet_Codes/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0160-intersection-of-two-linked-lists) |
