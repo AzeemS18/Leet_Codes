@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AzeemS18/Leet_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AzeemS18/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AzeemS18/Leet_Codes/tree/master/0075-sort-colors) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AzeemS18/Leet_Codes/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
