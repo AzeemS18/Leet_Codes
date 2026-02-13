@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/AzeemS18/Leet_Codes/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AzeemS18/Leet_Codes/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/AzeemS18/Leet_Codes/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/AzeemS18/Leet_Codes/tree/master/1448-maximum-69-number) |
