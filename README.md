@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0977-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AzeemS18/Leet_Codes/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0707-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AzeemS18/Leet_Codes/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/AzeemS18/Leet_Codes/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
