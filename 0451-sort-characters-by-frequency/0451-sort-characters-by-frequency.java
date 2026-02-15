@@ -5,18 +5,17 @@ class Solution {
             char c = s.charAt(i);
             m.put(c,m.getOrDefault(c,0)+1);
         }
-        PriorityQueue<Character> q = new PriorityQueue<>( (a,b) -> m.get(b) - m.get(a) );
-        q.addAll(m.keySet());
+        List<Character> l = new ArrayList<>(m.keySet());
+        l.sort( (a,b) -> m.get(b) - m.get(a) );
 
-        String res = "";
-        while( !q.isEmpty() ){
-            char a = q.poll();
+        StringBuilder res = new StringBuilder();
+        for(char a : l ) {
             int f = m.get(a);
             for(int i = 0 ; i < f ;i++){
-                res += a;
+                res.append(a);
             }
         }
-        return res;
+        return res.toString();
         
     }
 }
