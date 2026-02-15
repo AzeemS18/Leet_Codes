@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AzeemS18/Leet_Codes/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AzeemS18/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 | [0848-shifting-letters](https://github.com/AzeemS18/Leet_Codes/tree/master/0848-shifting-letters) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/AzeemS18/Leet_Codes/tree/master/0806-domino-and-tromino-tiling) |
