@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AzeemS18/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0496-next-greater-element-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1002-find-common-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/1002-find-common-characters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AzeemS18/Leet_Codes/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AzeemS18/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0516-longest-palindromic-subsequence) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/AzeemS18/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AzeemS18/Leet_Codes/tree/master/0443-string-compression) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0845-longest-mountain-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0845-longest-mountain-in-array) |
 | [0868-push-dominoes](https://github.com/AzeemS18/Leet_Codes/tree/master/0868-push-dominoes) |
 | [0977-squares-of-a-sorted-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0977-squares-of-a-sorted-array) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AzeemS18/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0561-array-partition](https://github.com/AzeemS18/Leet_Codes/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
