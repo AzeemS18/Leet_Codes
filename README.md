@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AzeemS18/Leet_Codes/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AzeemS18/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
