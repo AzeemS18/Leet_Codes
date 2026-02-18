@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/AzeemS18/Leet_Codes/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AzeemS18/Leet_Codes/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AzeemS18/Leet_Codes/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0394-decode-string) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AzeemS18/Leet_Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AzeemS18/Leet_Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AzeemS18/Leet_Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/AzeemS18/Leet_Codes/tree/master/0365-water-and-jug-problem) |
 ## Trie
