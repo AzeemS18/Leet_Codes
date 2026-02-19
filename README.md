@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AzeemS18/Leet_Codes/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AzeemS18/Leet_Codes/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/AzeemS18/Leet_Codes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0118-pascals-triangle) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/AzeemS18/Leet_Codes/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/AzeemS18/Leet_Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 ## Design
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0102-binary-tree-level-order-traversal) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0102-binary-tree-level-order-traversal) |
