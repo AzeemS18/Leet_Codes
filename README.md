@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AzeemS18/Leet_Codes/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AzeemS18/Leet_Codes/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AzeemS18/Leet_Codes/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/AzeemS18/Leet_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AzeemS18/Leet_Codes/tree/master/0342-power-of-four) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AzeemS18/Leet_Codes/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/AzeemS18/Leet_Codes/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/AzeemS18/Leet_Codes/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/AzeemS18/Leet_Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AzeemS18/Leet_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AzeemS18/Leet_Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/AzeemS18/Leet_Codes/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AzeemS18/Leet_Codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0104-maximum-depth-of-binary-tree) |
