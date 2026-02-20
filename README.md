@@ -752,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/AzeemS18/Leet_Codes/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/AzeemS18/Leet_Codes/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/AzeemS18/Leet_Codes/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/AzeemS18/Leet_Codes/tree/master/0620-not-boring-movies) |
 ## Union-Find
 |  |
 | ------- |
