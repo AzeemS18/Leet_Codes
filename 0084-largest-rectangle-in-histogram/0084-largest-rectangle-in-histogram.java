@@ -11,7 +11,7 @@ class Solution {
                 if(st.isEmpty()){
                     w = i;
                 }else{
-                    w = i - st.peek() -1;
+                    w = i - st.peek() - 1;
                 }
                 ma =Math.max(ma,h*w);
             }
