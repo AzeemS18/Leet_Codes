@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/AzeemS18/Leet_Codes/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/AzeemS18/Leet_Codes/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/AzeemS18/Leet_Codes/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/AzeemS18/Leet_Codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AzeemS18/Leet_Codes/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0205-isomorphic-strings) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/AzeemS18/Leet_Codes/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/AzeemS18/Leet_Codes/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AzeemS18/Leet_Codes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0213-house-robber-ii) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/AzeemS18/Leet_Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/AzeemS18/Leet_Codes/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/0784-letter-case-permutation) |
 ## Design
