@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AzeemS18/Leet_Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AzeemS18/Leet_Codes/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AzeemS18/Leet_Codes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AzeemS18/Leet_Codes/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1656-count-good-triplets](https://github.com/AzeemS18/Leet_Codes/tree/master/1656-count-good-triplets) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/AzeemS18/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0931-minimum-falling-path-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/0931-minimum-falling-path-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AzeemS18/Leet_Codes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/1901-find-a-peak-element-ii) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
