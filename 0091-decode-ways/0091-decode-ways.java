@@ -12,7 +12,7 @@ class Solution {
             }
             int se = Integer.parseInt(s.substring( i - 2 , i ));
             if( 10 <= se && se <= 26 ){
-                dp[i] += dp[i-2];
+                dp[i] += dp[i - 2];
             }
         }
         return dp[n];
