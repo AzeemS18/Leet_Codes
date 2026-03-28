@@ -10,7 +10,7 @@ class Solution {
                 r = mid;
             }
         }
-        return l;
+        return r;
         
     }
 }
