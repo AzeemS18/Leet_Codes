@@ -1,18 +1,34 @@
-class Solution(object):
-    def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        max_len=0
-        x=[]
-        longest=""
-        for i in range (len(s)):
-            for j in range (i,len(s)):
-                x = s[i:j+1]
-                if x == x [::-1]:
-                    if len(x) > max_len:
-                        max_len = len(x)
-                        longest = x
-        return longest
-        
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        n = len(s)
+        if n < 2:
+            return s
+        st = 0 
+        en = 0
+        def expand ( s , start , end ):
+            while ( start >= 0 and end < len(s)) and s[start] == s[end]:
+                start = start - 1
+                end = end + 1
+
+            return end - start - 1
+        for i in range (n):
+            ol = expand(s,i,i)
+            el = expand(s,i,i+1)
+            x = max(ol , el)
+
+            if x > en - st + 1 :
+                st = i - ( (x-1) // 2 )
+                en = i +  ( x // 2 )
+        return s[st : en + 1]
+
+
+
+
+
+
+
+
+
+
+
+
