@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AzeemS18/Leet_Codes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AzeemS18/Leet_Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0387-first-unique-character-in-a-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AzeemS18/Leet_Codes/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AzeemS18/Leet_Codes/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AzeemS18/Leet_Codes/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AzeemS18/Leet_Codes/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AzeemS18/Leet_Codes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AzeemS18/Leet_Codes/tree/master/0383-ransom-note) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AzeemS18/Leet_Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/AzeemS18/Leet_Codes/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/AzeemS18/Leet_Codes/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AzeemS18/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
