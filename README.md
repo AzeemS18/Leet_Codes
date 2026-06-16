@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3637-trionic-array-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3637-trionic-array-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AzeemS18/Leet_Codes/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AzeemS18/Leet_Codes/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AzeemS18/Leet_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AzeemS18/Leet_Codes/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/AzeemS18/Leet_Codes/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3770-largest-prime-from-consecutive-prime-sum](https://github.com/AzeemS18/Leet_Codes/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Binary Search
 |  |
 | ------- |
