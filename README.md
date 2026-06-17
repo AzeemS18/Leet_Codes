@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AzeemS18/Leet_Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AzeemS18/Leet_Codes/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AzeemS18/Leet_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/AzeemS18/Leet_Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AzeemS18/Leet_Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AzeemS18/Leet_Codes/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/AzeemS18/Leet_Codes/tree/master/0365-water-and-jug-problem) |
+| [1306-jump-game-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/1306-jump-game-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AzeemS18/Leet_Codes/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AzeemS18/Leet_Codes/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/AzeemS18/Leet_Codes/tree/master/0365-water-and-jug-problem) |
+| [1306-jump-game-iii](https://github.com/AzeemS18/Leet_Codes/tree/master/1306-jump-game-iii) |
 ## Trie
 |  |
 | ------- |
