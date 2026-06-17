@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/AzeemS18/Leet_Codes/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1002-find-common-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/AzeemS18/Leet_Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AzeemS18/Leet_Codes/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1089-duplicate-zeros](https://github.com/AzeemS18/Leet_Codes/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/AzeemS18/Leet_Codes/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/AzeemS18/Leet_Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/AzeemS18/Leet_Codes/tree/master/1293-three-consecutive-odds) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AzeemS18/Leet_Codes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
