@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AzeemS18/Leet_Codes/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AzeemS18/Leet_Codes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AzeemS18/Leet_Codes/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AzeemS18/Leet_Codes/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AzeemS18/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/AzeemS18/Leet_Codes/tree/master/1844-replace-all-digits-with-characters) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AzeemS18/Leet_Codes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AzeemS18/Leet_Codes/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/AzeemS18/Leet_Codes/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/AzeemS18/Leet_Codes/tree/master/3194-find-words-containing-character) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/AzeemS18/Leet_Codes/tree/master/1901-find-a-peak-element-ii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AzeemS18/Leet_Codes/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/AzeemS18/Leet_Codes/tree/master/2048-build-array-from-permutation) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AzeemS18/Leet_Codes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AzeemS18/Leet_Codes/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AzeemS18/Leet_Codes/tree/master/2215-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AzeemS18/Leet_Codes/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AzeemS18/Leet_Codes/tree/master/0621-task-scheduler) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AzeemS18/Leet_Codes/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/AzeemS18/Leet_Codes/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AzeemS18/Leet_Codes/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2448-count-number-of-bad-pairs](https://github.com/AzeemS18/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AzeemS18/Leet_Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
