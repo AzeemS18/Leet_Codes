@@ -1,14 +1,26 @@
 class Solution {
-    public int numTrees(int n) {
-        int[] dp = new int[n+1];
-        dp[0] = 1;
-        dp[1] = 1;
-        for(int i = 2 ; i <= n ; i++){
-            for(int j = 1 ; j <= i ; j++){
-                dp[i] += dp[j-1] * dp[i-j];
+    public String longestPalindrome(String s) {
+        int n = s.length();
+        int st = 0 ; 
+        int e = 0 ;
+        int len = Integer.MIN_VALUE;
+        for(int i = 0 ; i < n ; i++){
+            int ol = expand(s,i,i);
+            int el = expand(s,i,i+1);
+            len = Math.max(ol,el);
+            if(len >  e - st + 1){
+                st = i - (len - 1)/2;
+                e = i + len / 2;
             }
         }
-        return dp[n];
+        return s.substring( st , e + 1 );
         
+    }
+    private int expand(String a  , int l , int r ){
+        while( l >= 0 && r < a.length() && a.charAt(l) == a.charAt(r)  ){
+            l--;
+            r++;
+        }
+        return r - l - 1 ;
     }
 }
